@@ -1,0 +1,14 @@
+Setup the CLI :--
+
+1) EIther you can use VSS code or you can install C++ IDE or C++ compiler like turbo or dev c++
+2) After installing download the banking_application.cpp file.
+3) Compile and run the file on the IDE 
+4) Perform the Desired Operation. 
+
+
+
+In banking application you can find the code in c++ in which you can do the following things:--
+1) Create an Account
+2) Deposit Money to That Account -> In this the client needs to input account Number in which he/she needs to add the amount.
+3) Withdraw the Amount from the Account -> In this client needs to input account Number in which he/she needs to withdraw the amount.
+4) Balance -> After entering the Account number the c++ code will return the name of that account number in addition it will also return the balance amount. 
